@@ -1,5 +1,6 @@
 <template>
   <FeaturesHeader/>
+  <FeaturesHeaderMenu/>
   <Footer/>
 </template>
 
